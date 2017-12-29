@@ -6,7 +6,7 @@ LED flicker on raspberry pi 3
 
 ---------------------------------
 ## Demo
-https://youtube.be/meFfnEN5zsY
+https://youtu.be/meFfnEN5zsY
 
 ## Requirement
 kernel build scripts : https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts 
