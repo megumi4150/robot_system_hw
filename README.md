@@ -16,5 +16,5 @@ git clone https://github.com/megumi4150/robot_system_hw
 
 
 ## Licence
-[MIT](https://github.com/megumi4150/tool/blob/master/LICENCE)
+[MIT](https://github.com/megumi4150/robot_system_hw/blob/master/LICENSE)
 
