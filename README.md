@@ -7,7 +7,8 @@ LED flicker on raspberry pi 3
 ---------------------------------
 
 ## Requirement
-kernel build scripts : https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts
+kernel build scripts : https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts 
+
 This driver tested only on Raspberry3 pi
 
 ## Install
