@@ -1,22 +1,23 @@
 # robot_system_hw
-robot system home work 1
+robot system home work 2
 
 
-LED flicker on raspberry pi 3
+count up number on ROS
 
 ---------------------------------
 ## Demo
-https://youtu.be/meFfnEN5zsY
+https://youtu.be/UhvLHpb0Hck
 
-## Requirement
-kernel build scripts : https://github.com/ryuichiueda/raspberry_pi_kernel_build_scripts 
-
-This driver tested only on Raspberry pi 3
+This driver tested only on Ubuntu 16.04 LTS
 
 ## Install
 git clone https://github.com/megumi4150/robot_system_hw
 
+## Usage
+$roslaunch hw mypkg.launch
+
+visit https://localhost:8000/
 
 ## Licence
-[MIT](https://github.com/megumi4150/robot_system_hw/blob/master/LICENSE)
+[MIT](https://github.com/megumi4150/hw1/blob/master/LICENSE)
 
